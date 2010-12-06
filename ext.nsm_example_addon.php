@@ -50,6 +50,8 @@ class Nsm_email_login_ext
 	/**
 	 * Try and match the username to a members email.
 	 *
+	 * @access public
+	 * @return void
 	 * @see http://expressionengine.com/user_guide/development/extension_hooks/module/member_auth/index.html#member_member_login_start
 	 */
 	public function member_member_login_start()
