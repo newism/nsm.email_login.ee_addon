@@ -9,7 +9,7 @@
  * @copyright 		Copyright (c) 2007-2010 Newism <http://newism.com.au>
  * @license 		Commercial - please see LICENSE file included with this distribution
  * @link			http://expressionengine-addons.com/nsm-email-login
- * @see 			http://expressionengine.com/public_beta/docs/development/extensions.html
+ * @see 			http://expressionengine.com/user_guide/development/
  */
 
 class Nsm_email_login_ext
