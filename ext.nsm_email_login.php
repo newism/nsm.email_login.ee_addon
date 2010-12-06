@@ -56,13 +56,14 @@ class Nsm_email_login_ext
 	 */
 	public function member_member_login_start()
 	{
+		$EE = get_instance();
 		// Get the username from the post array
-		$username = $this->EE->input->get_post('username');
+		$username = $EE->input->post('username');
 		// Does it have an @ symbol making it an email
-		if(strpos($email,"@") !== false && $email)
+		if(strpos($username,"@") !== false && $username)
 		{
 			// Select the username from the members table trying to match it to email
-			$query = $this->EE->db->select('username')
+			$query = $EE->db->select('username')
 				->where('email', $username)
 				->get('members', 1);
 
