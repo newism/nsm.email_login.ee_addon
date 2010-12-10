@@ -13,7 +13,7 @@ Installing NSM Email Login
 
 ### Installing as a GIT submodule
 
-`git submodule add https://github.com/newism/nsm.email_login.ee_addon.git system/expressionengine/nsm_email_login`
+`git submodule add http://github.com/newism/nsm.email_login.ee_addon.git web/system/expressionengine/third_party/nsm_email_login`
 
 Issues
 ------
