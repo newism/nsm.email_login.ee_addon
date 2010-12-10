@@ -3,7 +3,7 @@ NSM Email Login
 
 Written by: Leevi Graham ([Twitter](http://twitter.com/leevigraham) | [Website](http://leevigraham.com)), Technical Director of [Newism](http://newism.com.au).
 
-NSM TinyMCE is an [ExpressionEngine 2](http://expressionengine.com/index.php?affiliate=newism) extension that allows members to login using their email based on [this Twitter request](http://twitter.com/leevigraham/status/11612968156397569).
+NSM Email Login is an [ExpressionEngine 2](http://expressionengine.com/index.php?affiliate=newism) extension that allows members to login using their email based on [this Twitter request](http://twitter.com/leevigraham/status/11612968156397569).
 
 Installing NSM Email Login
 --------------------------
@@ -14,3 +14,8 @@ Installing NSM Email Login
 ### Installing as a GIT submodule
 
 `git submodule add https://github.com/newism/nsm.email_login.ee_addon.git system/expressionengine/nsm_email_login`
+
+Issues
+------
+
+Doesn't work with admin login. Must use username.

@@ -16,8 +16,8 @@ class Nsm_email_login_ext
 {
 	public $version			= '1.0.0';
 	public $name			= 'NSM Email Login';
-	public $description		= 'Our example extension';
-	public $docs_url		= '';
+	public $description		= 'Allow members to login with their email or username.';
+	public $docs_url		= 'http://expressionengine-addons.com/nsm-better-meta';
 	public $settings_exist	= FALSE;
 
 	// At leaset one hook is needed to install an extension
