@@ -8,7 +8,7 @@
  * @author			Leevi Graham <http://leevigraham.com>
  * @copyright 		Copyright (c) 2007-2010 Newism <http://newism.com.au>
  * @license 		Commercial - please see LICENSE file included with this distribution
- * @link			http://expressionengine-addons.com/nsm-email-login
+ * @link			http://ee-garage.com/nsm-email-login
  * @see 			http://expressionengine.com/user_guide/development/
  */
 
@@ -17,7 +17,7 @@ class Nsm_email_login_ext
 	public $version			= '1.0.0';
 	public $name			= 'NSM Email Login';
 	public $description		= 'Allow members to login with their email or username.';
-	public $docs_url		= 'http://expressionengine-addons.com/nsm-email-login';
+	public $docs_url		= 'http://ee-garage.com/nsm-email-login';
 	public $settings_exist	= FALSE;
 
 	// At leaset one hook is needed to install an extension
