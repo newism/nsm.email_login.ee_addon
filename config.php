@@ -14,4 +14,4 @@
 $config['name'] 	= "NSM Email Login";
 $config["version"] 	= "1.0.0";
 
-$config['nsm_addon_updater']['versions_xml'] = 'http://expressionengine-addons.com/nsm-email-login/release-notes';
+$config['nsm_addon_updater']['versions_xml'] = 'http://expressionengine-addons.com/nsm-email-login/release-notes/feed';
