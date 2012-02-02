@@ -18,4 +18,4 @@ Installing NSM Email Login
 Issues
 ------
 
-Doesn't work with admin login. Must use username.
+Doesn't work with CP admin login. Must use username.

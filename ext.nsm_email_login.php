@@ -4,7 +4,7 @@
  * NSM Email Login Extension
  *
  * @package			NsmEmailLogin
- * @version			1.0.0
+ * @version			1.0.1
  * @author			Leevi Graham <http://leevigraham.com>
  * @copyright 		Copyright (c) 2007-2010 Newism <http://newism.com.au>
  * @license 		Commercial - please see LICENSE file included with this distribution
@@ -14,7 +14,7 @@
 
 class Nsm_email_login_ext
 {
-	public $version			= '1.0.0';
+	public $version			= '1.0.1';
 	public $name			= 'NSM Email Login';
 	public $description		= 'Allow members to login with their email or username.';
 	public $docs_url		= 'http://ee-garage.com/nsm-email-login';
